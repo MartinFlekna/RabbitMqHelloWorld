@@ -8,7 +8,8 @@ public enum Animal {
     FOX("Fox"),
     CAT("Cat"),
     DOG("Dog"),
-    ELEFHANT("Elephant");
+    PIGEON("Pigeon"),
+    ELEPHANT("Elephant");
 
 
     private final String text;
