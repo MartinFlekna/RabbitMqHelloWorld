@@ -7,6 +7,7 @@ public enum Color {
     ORANGE("Orange"),
     GREEN("Green"),
     RED("Red"),
+    BLACK("Black"),
     BLUE("Blue");
 
     private final String text;
