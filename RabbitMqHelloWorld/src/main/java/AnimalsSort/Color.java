@@ -6,6 +6,7 @@ package AnimalsSort;
 public enum Color {
     ORANGE("Orange"),
     GREEN("Green"),
+    RED("Red"),
     BLUE("Blue");
 
     private final String text;
